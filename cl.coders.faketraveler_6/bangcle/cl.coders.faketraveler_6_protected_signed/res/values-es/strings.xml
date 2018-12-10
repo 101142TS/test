@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ActivityMain_Apply">Aplicar</string>
+    <string name="ActivityMain_Lat">Lat</string>
+    <string name="ActivityMain_Long">Long</string>
+    <string name="ActivityMain_Stop">Stop</string>
+    <string name="ActivityMore_Bugs">Reporte problemas en https://github.com/mcastillof/FakeTraveler/issues</string>
+    <string name="ActivityMore_Copyright">Todos los derechos reservados 2018 Matías Castillo Felmer y contribuidores</string>
+    <string name="ActivityMore_HowManyTimes">¿Cuántas veces quieres falsificar la ubicación? (0 = infinito)</string>
+    <string name="ActivityMore_HowToInstructions">Mantenga pulsado en el mapa donde quiere la ubicación ficticia y luego presione el botón aplicar. La falsificación se aplicará una o más veces dependiendo de la configuración que sigue abajo. Mientras la falsificación esté operando, puedes cambiar de lugar tan solo manteniendo pulsado en el lugar que quieres estar. Presione el botón Detener para finalizar el engaño. Nota: debes activar Fake Traveler como aplicación de ubicación de prueba en Opciones del programador.</string>
+    <string name="ActivityMore_HowToTittle">¿Cómo se usa?</string>
+    <string name="ActivityMore_IconLicense">"El icono de lanzador es una obra derivada de \"Location, map, navigation, pointer icon\" por First Styles, usado bajo la licencia CC 3.0 BY. El icono de lanzador fue creado usando Android Asset Studio, y está licenciado bajo CC 3.0 BY, por Matías Castillo Felmer.
+https://www.iconfinder.com/icons/2135924/location_map_navigation_pointer_icon
+https://jgilfelt.github.io/AndroidAssetStudio/icons-launcher.html"</string>
+    <string name="ActivityMore_SourceCode">Código fuente disponible en https://github.com/mcastillof/FakeTraveler</string>
+    <string name="ActivityMore_TimeInterval">¿Cuántos segundos entre cada falsificación?</string>
+    <string name="ApplyMockBroadRec_Closed">Fake Traveler fue cerrado. Falsificaciones detenidas.</string>
+    <string name="ApplyMockBroadRec_MockNotApplied">Posición ficticia no aplicada. Debes activar Fake Traveler como aplicación de ubicación de prueba en las Opciones del prograrmador. Servicio detenido.</string>
+    <string name="MainActivity_MockApplied">Posiciones ficticias aplicadas.</string>
+    <string name="MainActivity_MockLocRunning">Servicio de posiciones ficticias corriendo.</string>
+    <string name="MainActivity_MockNotApplied">Posiciones ficticias no aplicadas. Debes activar la aplicacion de ubicación de prueba en las Opciones del programador</string>
+    <string name="MainActivity_MockStopped">Falsificaciones detenidas</string>
+    <string name="MainActivity_NoLatLong">No hay valores para lat o long. Manten pulsado en el mapa donde quieres posicionarte.</string>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+</resources>
